@@ -13,7 +13,7 @@
     <section>
 	  <nav>
 	    <div class="logo">
-		  <h1>food recipe<span>s</span></h1>
+		  <h1>food citie<span>s</span></h1>
 		</div>
 		<ul>
 		  <li><a href="#home">home</a></li>
@@ -30,12 +30,8 @@
 		<div class="main" id="Home">
 		  <div class="main_content">
 		    <div class="main_text">
-			  <h1>NIKE<br><span>Collection</span></h1>
-			  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-			  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-			  when an unknown printer took a galley of type and scrambled it to make a type 
-			  specimen book. It has survived not only five centuries, but also the leap into 
-			  electronic typesetting, remaining essentially unchanged. 
+			  <h1>The fastest<br> Delivery <br> <span>in Your CITY</span></h1>
+			  <p> 
 			  </p>
 			</div>
 			<div class="main_image">
