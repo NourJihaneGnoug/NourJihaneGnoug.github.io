@@ -16,11 +16,11 @@
 		  <h1>food citie<span>s</span></h1>
 		</div>
 		<ul>
-		  <li><a href="#home">home</a></li>
-		  <li><a href="#Products">Products</a></li>
+		  <li><a href="#home">Home</a></li>
+		  <li><a href="#Menu">Menu</a></li>
+		  <li><a href="#Shop">Shop</a></li>
+		  <li><a href="#Service">Service</a></li>
 		  <li><a href="#About">About</a></li>
-		  <li><a href="#Review">Review</a></li>
-		  <li><a href="#Servises">Servises</a></li>
 		</ul>
 		<div class="icons">
 		  <i class="fa-solid fa-heart"></i>
