@@ -13,7 +13,7 @@
     <section>
 	  <nav>
 	    <div class="logo">
-		  <h1>shoe<span>s</span></h1>
+		  <h1>food recipe<span>s</span></h1>
 		</div>
 		<ul>
 		  <li><a href="#home">home</a></li>
