@@ -40,13 +40,13 @@
 		  </div>
 		  <div class="social_icon">
 		    <i class="fa-brands fa-facebook-f"></i>
-			<i class="fa-brands fa-twitter"></i>
-			<i class="fa-brands fa-instagram"></i>
-			<i class="fa-brands fa-linkedin-in"></i>
+		    <i class="fa-brands fa-twitter"></i>
+		    <i class="fa-brands fa-instagram"></i>
+		    <i class="fa-brands fa-linkedin-in"></i>
 		  </div>
 		  <div class="button">
 		    <a href="#">Order NOW</a>
-			<i class="fa-solid fa-chevron-right"></i>
+		    <i class="fa-solid fa-chevron-right"></i>
 		  </div>
 		</div>
 	  </nav>
