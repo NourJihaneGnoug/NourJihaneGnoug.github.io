@@ -45,7 +45,7 @@
 			<i class="fa-brands fa-linkedin-in"></i>
 		  </div>
 		  <div class="button">
-		    <a href="#">SHOP NOW</a>
+		    <a href="#">ORDER NOW</a>
 			<i class="fa-solid fa-chevron-right"></i>
 		  </div>
 		</div>
