@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X=UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="wdth= devce-width, nitial-scale=1.0">
+    <meta name="viewport" content="width= device-width, intial-scale=1.0">
     <title> OUJDA  Delecious-fooD </title>
     <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" href="image/logo.png">
