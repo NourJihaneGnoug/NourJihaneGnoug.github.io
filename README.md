@@ -65,7 +65,9 @@
 				 <div class="products_text">
 					 <h2>cheese burger</h2>
 					 <p>
-						 lorem ipsum dolor sit, amed consecteur adipisicing elit.
+						 This burger will spark fireworks of its own at your next 
+						 cookout with all of the savory flavors we've managed to put
+						 together in one recipe.
 					 </p>
 					 <h3>$4.0000</h3>
 					 <div class="procucts_star">
