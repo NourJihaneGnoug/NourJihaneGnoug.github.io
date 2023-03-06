@@ -51,7 +51,7 @@
 		</div>
 	  </nav>
 	</section> 
-	 <div class="prodycts" id="products">
+	 <div class="products" id="products">
 		 <h1>products</h1>
 		 <div class="box">
 			 <div class="card">
@@ -63,7 +63,7 @@
 					 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sargento.com%2Frecipes%2Fgrilling%2Fultimate-cheeseburger%2F&psig=AOvVaw0DgxYsb0wgwC0NSQbpJ2Gl&ust=1678190994365000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi3z_Kix_0CFQAAAAAdAAAAABAD" >
 				 </div>
 				 <div class="products_text">
-					 <h2>OUJDA FOOD</h2>
+					 <h2>cheese burger</h2>
 					 <p>
 						 lorem ipsum dolor sit, amed consecteur adipisicing elit.
 					 </p>
@@ -75,7 +75,7 @@
 						 <i class="fa_solid fa_star"></i>
 						 <i class="fa_solid fa_star"></i>
 					 </div>
-					 <a href="#" class="btn">ADD to wart</a>
+					 <a href="#" class="btn">ADD to cart</a>
 				 </div>
 			 </div>
 		 </div>
