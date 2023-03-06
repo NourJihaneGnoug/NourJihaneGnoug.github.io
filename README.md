@@ -50,7 +50,36 @@
 		  </div>
 		</div>
 	  </nav>
-	</section>  
+	</section> 
+	 <div class="prodycts" id="products">
+		 <h1>products</h1>
+		 <div class="box">
+			 <div class="card">
+				 <div class="small_card">
+					 <i class="fa-solid fa-heart"></i>
+					 <i class="fa-solid fa-share"></i>
+				 </div>
+				 <div class="image">
+					 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sargento.com%2Frecipes%2Fgrilling%2Fultimate-cheeseburger%2F&psig=AOvVaw0DgxYsb0wgwC0NSQbpJ2Gl&ust=1678190994365000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi3z_Kix_0CFQAAAAAdAAAAABAD" >
+				 </div>
+				 <div class="products_text">
+					 <h2>OUJDA FOOD</h2>
+					 <p>
+						 lorem ipsum dolor sit, amed consecteur adipisicing elit.
+					 </p>
+					 <h3>$4.0000</h3>
+					 <div class="procucts_star">
+						 <i class="fa_solid fa_star"></i>
+						 <i class="fa_solid fa_star"></i>
+						 <i class="fa_solid fa_star"></i>
+						 <i class="fa_solid fa_star"></i>
+						 <i class="fa_solid fa_star"></i>
+					 </div>
+					 <a href="#" class="btn">ADD to wart</a>
+				 </div>
+			 </div>
+		 </div>
+	 </div>
   
   </body>
 </html>
