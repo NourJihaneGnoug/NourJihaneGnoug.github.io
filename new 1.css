@@ -62,3 +62,7 @@ section nav ul li a{
 section nav ul li a:hover{
 	color: #c72092;
 }
+
+section nav .icons i:hover{
+	color: #c72092;
+}
